@@ -4,3 +4,4 @@ st.title("selamat datang di pelajaran informatika ")
 st.write(
     "Belajar coding bersama Pa Hendri"
 )
+st.image("IMG-20250514-WA0001.jpg", widht=200)
