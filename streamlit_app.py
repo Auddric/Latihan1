@@ -4,4 +4,4 @@ st.title("WUJUD ASLI PENAMPAKAN HANTU TAHURA")
 st.write(
     "berikut bukti foto PENAMPAKAN"
 )
-st.image("IMG-20250514-WA0001.jpg", width=200)
+st.image("IMG_20250521_093530_789.webp", width=200)
